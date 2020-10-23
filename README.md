@@ -8,3 +8,8 @@ Saat ini Smartphone sudah menjadi salah satu alat yang tak pernah bisa lepas dar
   Untuk kita yang memiliki aplikasi baru Admob juga memberikan kemudah untuk kita dengan cara memasang iklan pada aplikasi lama kita agar para user aplikasi lama kita tahu aplikasi baru kita. Untuk mengoptimalkan dan memaksimal kan pendapatan iklan kita dapat menggunakan fitur mediasi yang telah ada dalam Adsmob sendiri. 
   Google admob juga dapat dihubungkan secara langsung dengan Google Analytics for firebase hal ini dapat lebih mengoptimalkan iklan dan penglamana user aplikasi kita. Setelah dihubungkan dengan fire base , didalam dashboard akan dimunculkan data hasil pendapatan dan pejualan aplikasi , serta menjelaskan secara jelas meadisi yang telah kita lakukan pada aplikasi kita. Hal ini akan membuat kita lebih memahami reaksi pengguna terhadap iklan yang ditampilkan dalam aplikasi.
   Google Admob sangat membantu kita terutama kita yang baru memulai membuat dan mengembangkan aplikasi agar aplikasi yang kita buat dapat menghasilkan uang dan mendapat masukan dari user. Hal ini akan berguna untuk pengembangan aplikasi kita berkelanjutan. 
+  
+  
+  Credit : Afra samantha 
+           School of Business and Management ITB 2023
+           197203567
